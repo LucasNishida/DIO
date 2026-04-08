@@ -7,4 +7,4 @@
  - [Conhecendo Tuplas em Python](https://academiapme-my.sharepoint.com/:p:/g/personal/nubia_dio_me/ER_pCeDKskRCvfnbSsQtZ7gBnX3Nk7I0_jotj52VPltL3Q?e=BOheig)  
  - [Explorando Conjuntos em Python](https://academiapme-my.sharepoint.com/:p:/g/personal/nubia_dio_me/EWxVjZ3N_-5OmGYkDrdEQkoB0NuroEV5wvMavMOA9-nI2Q?e=Nr7pE0)  
  - [Aprendendo a Utilizar Dicionários em Python](https://academiapme-my.sharepoint.com/:p:/g/personal/nubia_dio_me/EebIipXNLf9GsduivQenMpUBtoohPY2ITXh1HnkB0wa2dg?e=dOZp1h)  
- 
+ - [Dominando Funções Python](https://academiapme-my.sharepoint.com/:p:/g/personal/nubia_dio_me/IQCjAGjsfwauSapA_YfirIdJAerRafFI9_DiIzsvoQC8qXk?rtime=tlj9H7WV3kg)  
