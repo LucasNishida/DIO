@@ -1,1 +1,10 @@
-
+# 1 - PYTHON  
+  
+ - [Tipos de Operadores](https://academiapme-my.sharepoint.com/personal/kawan_dio_me/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fkawan_dio_me%2FDocuments%2FSlides%20dos%20Cursos%2FPython%20-%20Módulo%20I%20-%20Fundamentos%2FCurso%203&ga=1)  
+ - [Estruturas condicionais e de repetição](https://academiapme-my.sharepoint.com/personal/kawan_dio_me/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fkawan_dio_me%2FDocuments%2FSlides%20dos%20Cursos%2FPython%20-%20Módulo%20I%20-%20Fundamentos%2FCurso%204&ga=1)  
+ - [Dominando Strings e Fatiamento](https://academiapme-my.sharepoint.com/personal/kawan_dio_me/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fkawan_dio_me%2FDocuments%2FSlides%20dos%20Cursos%2FPython%20-%20Módulo%20I%20-%20Fundamentos%2FCurso%205&ga=1)  
+ - [Trabalhando com Listas em Python](https://academiapme-my.sharepoint.com/:p:/g/personal/nubia_dio_me/EVPXb3r8bPBEryfuvxp2uhABKXdIyWyufNXAjxQuOzabdQ?e=MDo5cY)  
+ - [Conhecendo Tuplas em Python](https://academiapme-my.sharepoint.com/:p:/g/personal/nubia_dio_me/ER_pCeDKskRCvfnbSsQtZ7gBnX3Nk7I0_jotj52VPltL3Q?e=BOheig)  
+ - [Explorando Conjuntos em Python](https://academiapme-my.sharepoint.com/:p:/g/personal/nubia_dio_me/EWxVjZ3N_-5OmGYkDrdEQkoB0NuroEV5wvMavMOA9-nI2Q?e=Nr7pE0)  
+ - [Aprendendo a Utilizar Dicionários em Python](https://academiapme-my.sharepoint.com/:p:/g/personal/nubia_dio_me/EebIipXNLf9GsduivQenMpUBtoohPY2ITXh1HnkB0wa2dg?e=dOZp1h)  
+ 
