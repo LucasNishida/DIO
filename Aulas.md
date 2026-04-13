@@ -13,5 +13,5 @@
 # 2 - Banco de Dados Relacionais  
   
  - [Repositório](https://github.com/pamelaborges/dio-bd-relacional) - Repositório com material de apoio gamificado.
- - ([Introdução a Banco de Dados Relacionais (SQL).pptx](https://hermes.dio.me/files/assets/dd0de1a7-42f7-4359-805f-15d609dfa322.pptx)) - Apresentação utilizada no curso.
+ - [Introdução a Banco de Dados Relacionais (SQL).pptx](https://hermes.dio.me/files/assets/dd0de1a7-42f7-4359-805f-15d609dfa322.pptx) - Apresentação utilizada no curso.
  - 
