@@ -16,3 +16,9 @@
  - [Introdução a Banco de Dados Relacionais (SQL).pptx](https://hermes.dio.me/files/assets/dd0de1a7-42f7-4359-805f-15d609dfa322.pptx) - Apresentação utilizada no curso.
 
 
+# 3 - Bancos de Dados Não Relacionais
+
+ - [Repositório](https://github.com/pamelaborges/dio-db-nosql) - Repositório com material.
+ - [Slides de Banco de Dados Não Relacionais](https://hermes.dio.me/files/assets/df125b3a-3ee4-4fca-88ef-3ec21bbbf2d0.pdf) - Apresentação utilizada no curso.
+
+
