@@ -8,3 +8,17 @@
  - [Explorando Conjuntos em Python](https://academiapme-my.sharepoint.com/:p:/g/personal/nubia_dio_me/EWxVjZ3N_-5OmGYkDrdEQkoB0NuroEV5wvMavMOA9-nI2Q?e=Nr7pE0)  
  - [Aprendendo a Utilizar Dicionários em Python](https://academiapme-my.sharepoint.com/:p:/g/personal/nubia_dio_me/EebIipXNLf9GsduivQenMpUBtoohPY2ITXh1HnkB0wa2dg?e=dOZp1h)  
  - [Dominando Funções Python](https://academiapme-my.sharepoint.com/:p:/g/personal/nubia_dio_me/IQCjAGjsfwauSapA_YfirIdJAerRafFI9_DiIzsvoQC8qXk?rtime=tlj9H7WV3kg)  
+
+
+# 2 - Banco de Dados Relacionais  
+  
+ - [Repositório](https://github.com/pamelaborges/dio-bd-relacional) - Repositório com material de apoio gamificado.
+ - [Introdução a Banco de Dados Relacionais (SQL).pptx](https://hermes.dio.me/files/assets/dd0de1a7-42f7-4359-805f-15d609dfa322.pptx) - Apresentação utilizada no curso.
+
+
+# 3 - Bancos de Dados Não Relacionais
+
+ - [Repositório](https://github.com/pamelaborges/dio-db-nosql) - Repositório com material.
+ - [Slides de Banco de Dados Não Relacionais](https://hermes.dio.me/files/assets/df125b3a-3ee4-4fca-88ef-3ec21bbbf2d0.pdf) - Apresentação utilizada no curso.
+
+
