@@ -10,10 +10,10 @@ if (Test-Path $outputFile){
 }
 
 #Pega conteudo dos arquivos
-$sqlFile = Get-ChildItem -Path $scriptDirectory -Filter -File | Sort-Object Name
+$sqlFile = Get-ChildItem -Path $scriptDirectory -Filter *.sql -File | Sort-Object Name
 
 #Concatena Arquivos
-foreach($feli in $sqlFile){
+foreach($file in $sqlFile){
     Get-Content $file.FullName | Out-File -Append -FilePath $outputFile
     "GO" | Out-File -Append -FilePath $outputFile
 }
