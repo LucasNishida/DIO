@@ -3,93 +3,90 @@ INSERT INTO tbl_cards (
     cardNumberInCollection, collection_id, type_id, stage_id
 )
 VALUES
--- 21
-(40, 'Caterpie', 'Worm Pokémon', 'String Shot', '10', 'Fire', NULL, '1',
- 45, 1, 1, 1),
--- 22
+-- #32 Magmar
+(50, 'Magmar', 'Spitfire Pokémon', 'Smokescreen', '10', 'Water', NULL, '2',
+ 32, 1, 2, 1),
+-- #33 Nidorino
+(60, 'Nidorino', 'Poison Pin Pokémon', 'Horn Drill', '50', 'Psychic', NULL, '2',
+ 33, 1, 1, 2),
+-- #34 Pidgey
+(40, 'Pidgey', 'Tiny Bird Pokémon', 'Gust', '30', 'Lightning', 'Fighting', '1',
+ 34, 1, 7, 1),
+-- #35 Pikachu
+(40, 'Pikachu', 'Mouse Pokémon', 'Thunder Jolt', '30', 'Fighting', NULL, '1',
+ 35, 1, 4, 1),
+-- #36 Raticate
+(60, 'Raticate', 'Mouse Pokémon', 'Super Fang', '—', 'Fighting', NULL, '1',
+ 36, 1, 7, 2),
+-- #37 Seel
+(60, 'Seel', 'Sea Lion Pokémon', 'Headbutt', '10', 'Lightning', NULL, '1',
+ 37, 1, 3, 1),
+-- #38 Tangela
+(70, 'Tangela', 'Vine Pokémon', 'Bind', '20', 'Fire', NULL, '2',
+ 38, 1, 1, 1),
+-- #39 Vulpix
+(50, 'Vulpix', 'Fox Pokémon', 'Confuse Ray', '10', 'Water', NULL, '1',
+ 39, 1, 2, 1),
+-- #40 Wartotle
+(70, 'Wartortle', 'Turtle Pokémon', 'Withdraw', '—', 'Lightning', NULL, '1',
+ 40, 1, 3, 2),
+-- #41 Abra
+(30, 'Abra', 'Psi Pokémon', 'Psyshock', '10', 'Psychic', NULL, '1',
+ 41, 1, 5, 1),
+-- #42 Gastly
+(30, 'Gastly', 'Gas Pokémon', 'Lick', '10', 'Psychic', NULL, '1',
+ 42, 1, 5, 1),
+-- #43 Koffing
+(50, 'Koffing', 'Poison Gas Pokémon', 'Smog', '20', 'Psychic', NULL, '1',
+ 43, 1, 6, 1),
+-- #44 Machop (alt art)
+(50, 'Machop', 'Superpower Pokémon', 'Low Kick', '20', 'Psychic', NULL, '1',
+ 44, 1, 6, 1),
+-- #45 Magnemite
+(40, 'Magnemite', 'Magnet Pokémon', 'Thunder Wave', '10', 'Fighting', NULL, '1',
+ 45, 1, 4, 1),
+-- #46 Metapod
 (60, 'Metapod', 'Cocoon Pokémon', 'Stiffen', '—', 'Fire', NULL, '2',
- 54, 1, 1, 2),
--- 23
-(80, 'Butterfree', 'Butterfly Pokémon', 'Whirlwind', '20', 'Fire', NULL, '1',
- 33, 1, 1, 2),
--- 24
-(40, 'Weedle', 'Hairy Bug Pokémon', 'Poison Sting', '10', 'Fire', NULL, '1',
- 69, 1, 1, 1),
--- 25
-(60, 'Kakuna', 'Cocoon Pokémon', 'Stiffen', '—', 'Fire', NULL, '2',
- 33, 1, 1, 2),
--- 26
-(70, 'Beedrill', 'Poison Bee Pokémon', 'Twineedle', '30x', 'Fire', NULL, '2',
- 17, 1, 1, 2),
--- 27
-(50, 'Nidoran♀', 'Poison Pin Pokémon', 'Scratch', '20', 'Psychic', NULL, '1',
- 55, 1, 1, 1),
--- 28
-(70, 'Nidorina', 'Poison Pin Pokémon', 'Double Kick', '30x', 'Psychic', NULL, '2',
- 36, 1, 1, 2),
--- 29
-(80, 'Nidoqueen', 'Drill Pokémon', 'Boyfriends', '20+', 'Psychic', NULL, '3',
- 7, 1, 1, 3),
--- 30
-(60, 'Nidoran♂', 'Poison Pin Pokémon', 'Horn Hazard', '30', 'Psychic', NULL, '1',
- 56, 1, 1, 1),
--- 31
-(80, 'Nidorino', 'Poison Pin Pokémon', 'Horn Drill', '50', 'Psychic', NULL, '2',
- 37, 1, 1, 2),
--- 32
-(90, 'Nidoking', 'Drill Pokémon', 'Thrash', '30+', 'Psychic', NULL, '3',
- 11, 1, 1, 3),
--- 33
-(50, 'Poliwag', 'Tadpole Pokémon', 'Water Gun', '10+', 'Lightning', NULL, '1',
- 59, 1, 3, 1),
--- 34
+ 46, 1, 1, 2),
+-- #47 Nidoran♀
+(40, 'Nidoran♀', 'Poison Pin Pokémon', 'Scratch', '20', 'Psychic', NULL, '1',
+ 47, 1, 1, 1),
+-- #48 Onix
+(90, 'Onix', 'Rock Snake Pokémon', 'Rock Throw', '10', 'Grass', NULL, '1',
+ 48, 1, 6, 1),
+-- #49 Poliwag
+(40, 'Poliwag', 'Tadpole Pokémon', 'Water Gun', '10+', 'Lightning', NULL, '1',
+ 49, 1, 3, 1),
+-- #50 Poliwirl
 (60, 'Poliwhirl', 'Tadpole Pokémon', 'Amnesia', '—', 'Lightning', NULL, '2',
- 38, 1, 3, 2),
--- 35
-(90, 'Poliwrath', 'Tadpole Pokémon', 'Water Gun', '30+', 'Lightning', NULL, '3',
- 13, 1, 3, 3),
--- 36
-(40, 'Gastly', 'Gas Pokémon', 'Lick', '10', 'Psychic', NULL, '1',
- 50, 1, 5, 1),
--- 37
-(60, 'Haunter', 'Gas Pokémon', 'Hypnosis', '—', 'Psychic', NULL, '1',
- 29, 1, 5, 2),
--- 38
-(80, 'Gengar', 'Shadow Pokémon', 'Nightmare', '10', 'Psychic', NULL, '1',
- 5, 1, 5, 3),
--- 39
-(40, 'Drowzee', 'Hypnosis Pokémon', 'Pound', '10', 'Psychic', NULL, '1',
- 49, 1, 5, 1),
--- 40
-(70, 'Hypno', 'Hypnosis Pokémon', 'Prophecy', '—', 'Psychic', NULL, '2',
- 8, 1, 5, 2),
--- 41
-(40, 'Diglett', 'Mole Pokémon', 'Dig', '10', 'Grass', NULL, '1',
- 47, 1, 6, 1),
--- 42
-(70, 'Dugtrio', 'Mole Pokémon', 'Earthquake', '70', 'Grass', NULL, '2',
- 19, 1, 6, 2),
--- 43
-(50, 'Geodude', 'Rock Pokémon', 'Tackle', '10', 'Grass', NULL, '1',
- 50, 1, 6, 1),
--- 44
-(80, 'Graveler', 'Rock Pokémon', 'Rock Throw', '40', 'Grass', NULL, '2',
- 37, 1, 6, 2),
--- 45
-(100, 'Golem', 'Megaton Pokémon', 'Selfdestruct', '100', 'Grass', NULL, '4',
- 36, 1, 6, 3),
--- 46
-(40, 'Onix', 'Rock Snake Pokémon', 'Rock Throw', '10', 'Grass', NULL, '1',
- 56, 1, 6, 1),
--- 47
-(50, 'Hitmonchan', 'Punching Pokémon', 'Special Punch', '40', 'Psychic', NULL, '2',
- 7, 1, 6, 1),
--- 48
-(70, 'Hitmonlee', 'Kicking Pokémon', 'Stretch Kick', '—', 'Psychic', NULL, '2',
- 8, 1, 6, 1),
--- 49
-(40, 'Jigglypuff', 'Balloon Pokémon', 'Lullaby', '—', 'Fighting', NULL, '1',
- 54, 1, 7, 1),
--- 50
-(60, 'Wigglytuff', 'Balloon Pokémon', 'Do the Wave', '10+', 'Fighting', NULL, '2',
- 32, 1, 7, 2);
+ 50, 1, 3, 2),
+-- #51 Rattata
+(30, 'Rattata', 'Mouse Pokémon', 'Bite', '20', 'Fighting', NULL, '1',
+ 51, 1, 7, 1),
+-- #52 Sandshrew
+(40, 'Sandshrew', 'Mouse Pokémon', 'Scratch', '20', 'Grass', NULL, '1',
+ 52, 1, 6, 1),
+-- #53 Staryu
+(40, 'Staryu', 'Star Shape Pokémon', 'Slap', '20', 'Lightning', NULL, '1',
+ 53, 1, 3, 1),
+-- #54 Voltorb
+(40, 'Voltorb', 'Ball Pokémon', 'Tackle', '10', 'Fighting', NULL, '1',
+ 54, 1, 4, 1),
+-- #55 Weedle
+(40, 'Weedle', 'Hairy Bug Pokémon', 'Poison Sting', '10', 'Fire', NULL, '1',
+ 55, 1, 1, 1),
+-- #56 Caterpie
+(40, 'Caterpie', 'Worm Pokémon', 'String Shot', '10', 'Fire', NULL, '1',
+ 56, 1, 1, 1),
+-- #57 Charmander
+(50, 'Charmander', 'Lizard Pokémon', 'Scratch', '10', 'Water', NULL, '1',
+ 57, 1, 2, 1),
+-- #58 Diglett
+(30, 'Diglett', 'Mole Pokémon', 'Dig', '10', 'Grass', NULL, '1',
+ 58, 1, 6, 1),
+-- #59 Doduo
+(50, 'Doduo', 'Twin Bird Pokémon', 'Fury Attack', '10x', 'Lightning', NULL, '1',
+ 59, 1, 7, 1),
+-- #60 Drowzee
+(50, 'Drowzee', 'Hypnosis Pokémon', 'Pound', '10', 'Psychic', NULL, '1',
+ 60, 1, 5, 1);
