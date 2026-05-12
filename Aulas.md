@@ -22,3 +22,8 @@
  - [Slides de Banco de Dados Não Relacionais](https://hermes.dio.me/files/assets/df125b3a-3ee4-4fca-88ef-3ec21bbbf2d0.pdf) - Apresentação utilizada no curso.
 
 
+# 4 - Análise de Dados com Excel e Copilot
+
+ - [Excel](https://www.microsoft.com/pt-br/microsoft-365/excel)
+ - [Copilot](https://www.microsoft.com/pt-br/microsoft-copilot/for-individuals?form=MA13YT)
+ - 

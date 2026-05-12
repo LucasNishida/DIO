@@ -2,13 +2,13 @@ import requests
 import pandas as pd
 
 def extract_pokemon(poke_id):
-    """Extrai dados brutos da API"""
+    ### Extrai dados brutos da API ###
     url = f"https://pokeapi.co/api/v2/pokemon/{poke_id}"
     response = requests.get(url)
     return response.json() if response.status_code == 200 else None
 
 def transform_pokemon(data):
-    """Transforma e limpa os dados extraídos"""
+    ### Transforma e limpa os dados extraídos ###
     return {
         "id": data['id'],
         "name": data['name'].capitalize(),
@@ -18,7 +18,7 @@ def transform_pokemon(data):
     }
 
 def load_data(df, file_name="pokemon_data"):
-    """Carrega os dados em arquivos locais"""
+    ### Carrega os dados em arquivos locais ###
     df.to_csv(f"{file_name}.csv", index=False)
     print(f"Sucesso! Arquivos {file_name} gerados.")
 
