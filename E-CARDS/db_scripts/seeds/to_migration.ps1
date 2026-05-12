@@ -18,4 +18,4 @@ foreach($feli in $sqlFile){
     "GO" | Out-File -Append -FilePath $outputFile
 }
 
-Wrete-Host "Todos Arquivos foram combinados em $outputFile"
+Write-Host "Todos Arquivos foram combinados em $outputFile"
