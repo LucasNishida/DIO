@@ -2,14 +2,14 @@
 $scriptDirectory = Split-Path -Path $MyInvocation.MyCommand.Definition -Parent
 
 #Arquivo saída com todos sql
-$outputFile = Join-Path -Path $$scriptDirectory -ChildPath "migration.sql"
+$outputFile = Join-Path -Path $scriptDirectory -ChildPath "migration.sql"
 
-#verifica se arquivo ja existe, se existir deleta
+#Verifica se arquivo ja existe, se existir deleta
 if (Test-Path $outputFile){
     Remove-Item $outputFile
 }
 
-#pega conteudo dos arquivos
+#Pega conteudo dos arquivos
 $sqlFile = Get-ChildItem -Path $scriptDirectory -Filter -File | Sort-Object Name
 
 #Concatena Arquivos
