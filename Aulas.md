@@ -27,3 +27,9 @@
  - [Excel](https://www.microsoft.com/pt-br/microsoft-365/excel)
  - [Copilot](https://www.microsoft.com/pt-br/microsoft-copilot/for-individuals?form=MA13YT)
  - [Mapa Mental de Dashboards](https://hermes.dio.me/files/assets/99762896-2fe4-4b5f-9104-e01e40829029.png) - KPI e OKR
+
+
+# 5 - Computação em nuvem
+
+ - [Cloud Notes](https://felipe-aguiar.gitbook.io/cloud-fundamentals)
+ - 
