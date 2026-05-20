@@ -32,4 +32,5 @@
 # 5 - Computação em nuvem
 
  - [Cloud Notes](https://felipe-aguiar.gitbook.io/cloud-fundamentals)
+ - [Infraestrutura Global AWS](https://hermes.dio.me/files/assets/b4141d39-8072-4853-a589-b9fa7721fe2a.pdf)
  - 
