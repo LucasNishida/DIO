@@ -33,4 +33,4 @@
 
  - [Cloud Notes](https://felipe-aguiar.gitbook.io/cloud-fundamentals)
  - [Computação em AWS](https://hermes.dio.me/files/assets/b4141d39-8072-4853-a589-b9fa7721fe2a.pdf)
- - 
+ - [Armazenamento e Banco de Dados AWS](https://hermes.dio.me/files/assets/f240fada-ad63-4d56-871a-cded3e51b308.pdf)
